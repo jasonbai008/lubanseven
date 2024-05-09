@@ -2,7 +2,7 @@
 
 $(window).on('load', function () {
 
-  console.log('https://gitee.com/lubanseven/lubanseven/raw/master/白延云的简历V20.pdf')
+  console.log('https://jasonbai008.github.io/lubanseven/白延云的简历V20.pdf')
   /*------------------
     Preloder
   --------------------*/
