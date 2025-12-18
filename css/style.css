@@ -1129,12 +1129,22 @@ ul {
   font-size: 40px;
   opacity: 0.8;
   color: #9c9c9c;
+  transition: all 0.3s;
+}
+
+.contact-info img {
+  transition: all 0.3s;
 }
 
 .contact-info p {
   font-size: 14px;
   line-height: 20px;
   color: #333;
+}
+
+.contact-info:hover i,
+.contact-info:hover img {
+  transform: translateY(-5px) scale(1.2);
 }
 
 /* ====================
@@ -1309,7 +1319,7 @@ ul {
 =======================*/
 
 .footer-section {
-  position: fixed;
+  /* position: fixed; */
   width: 100%;
   bottom: 0;
   background: url("../img/p-dark.png");
