@@ -5,4 +5,5 @@
 ## 链接
 
 - https://jasonbai008.github.io/lubanseven
+- https://jasonbai.netlify.app
 - https://jasonbai.pages.dev
